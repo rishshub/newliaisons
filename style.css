@@ -72,7 +72,7 @@ body {
 
 .fix {
   overflow: hidden;
-  background: #C5FAD5;
+  background-color: rgb(251, 251, 191);
 }
 
 a,
@@ -282,17 +282,17 @@ label {
     - Background color
 -----------------------------------------*/
 .grey-bg {
-  background-image: linear-gradient(45deg ,#c5fad5,#ffffd5);
+  background-image: linear-gradient(95deg ,#4dd9d9,#f8f8d2);
 
 }
 
 .grey-bg-soft {
-  background: #C5FAD5;
+  background-color: rgb(251, 251, 191);
   
 }
 
 .grey-bg-soft2 {
-  background-color: #FFFFD2;
+  background-color: #4dd9d9;
 }
 
 .grey-bg-soft3 {
@@ -1156,7 +1156,7 @@ section-title
 .page-title-area {
   position: relative;
   z-index: 2;
-  background-image: linear-gradient(45deg ,#c5fad5,#ffffd5);
+  background-image: linear-gradient(95deg ,#4dd9d9,#f8f8d2);
 }
 
 .page-title-wrapper {
@@ -3482,6 +3482,7 @@ input.main-search-input:-ms-input-placeholder {
   border-radius: 0 0 68% 68%;
   position: relative;
   z-index: 1;
+  background-color: rgb(251, 251, 191);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .round-background {
@@ -3623,7 +3624,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .onestop-management {
-  background-color: #ffffd5a1;
+  background-color: #4dd9d9;
   position: relative;
   z-index: 1;
 }
@@ -6704,6 +6705,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .footer-area {
   z-index: 2;
+  background-color: #caf4f4;
 }
 
 .fot-shape {
