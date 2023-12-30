@@ -345,7 +345,7 @@ label {
 
 .theme-color {
   color:  
-#51cfed;
+#eef2f3;
 }
 
 .theme-color2 {
@@ -1256,7 +1256,7 @@ section-title
   animation: rotation infinite 5s linear;
 }
 .page-title-area2 .page-shape.shape_06 {
-  right: 30%;
+  right: 20%;
   top: 255px;
 }
 .page-title-area2 .page-title-img-wrapper .breadcrumb-img {
@@ -3122,7 +3122,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .styled-text {
-  font-size: 24px;
+  font-size: 43px;
   font-weight: 400;
   font-family: "gloss_and_bloomregular";
   margin-bottom: 45px;
@@ -5488,6 +5488,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 .team-wrapper .team-thumb {
   overflow: hidden;
+  height: 360px;
 }
 .team-wrapper .team-thumb img {
   -webkit-transition: all 0.3s ease 0s;
@@ -6876,4 +6877,10 @@ header{
 }
 .ship{
   position: relative;
+}
+#roadd  {
+  height: 40px;
+}
+.page-title-wrapper p{
+    font-size: 20px;
 }
