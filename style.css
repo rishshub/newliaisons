@@ -1168,10 +1168,11 @@ section-title
 }
 .page-title-wrapper .page-title {
   color: #060315;
-  font-size: 90px;
+  font-size: 60px;
   font-weight: 700;
   line-height: 0.95;
   z-index: 1;
+  font-style: italic;
 }
 .page-title-wrapper .page-title span {
   color:  
@@ -3124,8 +3125,9 @@ input.main-search-input:-ms-input-placeholder {
 .styled-text {
   font-size: 43px;
   font-weight: 400;
-  font-family: "gloss_and_bloomregular";
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   margin-bottom: 45px;
+   text-align: center;
 }
 @media (max-width: 767px) {
   .styled-text {
@@ -3136,6 +3138,8 @@ input.main-search-input:-ms-input-placeholder {
 .main-title {
   font-size: 120px;
   line-height: 1.01;
+  font-style:italic;
+  color: white;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .main-title {
@@ -6884,3 +6888,4 @@ header{
 .page-title-wrapper p{
     font-size: 20px;
 }
+
